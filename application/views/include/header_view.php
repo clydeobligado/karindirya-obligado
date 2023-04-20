@@ -13,6 +13,6 @@
 
         <title><?= $title ?></title>
     </head>
-    <body>
+    <body class="p-5">
         
     

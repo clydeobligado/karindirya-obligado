@@ -9,7 +9,7 @@
 <?php endif; ?>
 <div class="col-md-4">
     <!-- when the form is submitted, this function in the controller will be called. -->
-    <?php echo form_open_multipart('Products/processAddProduct'); ?>
+    <?php echo form_open_multipart('Products/processAddProduct/'); ?>
     <form>
         <br>
         <div class="form-group">
